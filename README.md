@@ -1,1 +1,11 @@
-# T08
+The Program creates a loop that produces the following output:
+
+"*"
+
+"**" 
+
+"***"
+
+"****"
+
+"*****"
